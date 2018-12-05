@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584436478971",
+    "firebase_url": "https://kingfblogin.firebaseio.com",
+    "project_id": "kingfblogin",
+    "storage_bucket": "kingfblogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584436478971:android:9639a293b952e66b",
+        "android_client_info": {
+          "package_name": "com.kingwanyama.kingfblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584436478971-oilh0e0kjaq8g63sfbks68i6tldu6th0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingwanyama.kingfblogin",
+            "certificate_hash": "5d0593eb2df45ff743ce73de4b69893770f698cc"
+          }
+        },
+        {
+          "client_id": "584436478971-nq0836lkrf67q54sjbkskvkklt8aefau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFGG3_z6shqCK2IsLjL5keSGRr13-t_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584436478971-nq0836lkrf67q54sjbkskvkklt8aefau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
